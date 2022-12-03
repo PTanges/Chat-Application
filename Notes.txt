@@ -1,0 +1,5 @@
+Be sure to open the Chat App (Oates) prior to the .exe otherwise some issues arise from the port bind time
+
+When opening the .cpp file in Visual Studio, it may struggle to find the .exe
+
+You may use cd to the repo (via shortcut) and then cl the executable
